@@ -163,6 +163,9 @@
 #heart {
     color: darkred;
 }
+h1 {
+    margin-top: -10px;
+}
 footer {
     background-color: #333333;
     color: #eea236;
