@@ -1,0 +1,185 @@
+
+/*Custom CSS starts from here*/
+#title-info {
+    text-transform: uppercase;
+    color: #F1F0CC;
+}
+
+#problem {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+#problem-image {
+    margin-top: 0;
+}
+#map {
+    margin-top: 20px;
+    float: left;
+    margin-left: -40px;
+}
+#nearby {
+    float: right;
+    margin-top: 60px;
+    font-size: 22px;
+    font-family: Ubuntu;
+    margin-right: -40px;
+}
+#header-nav {
+    background-color: #A71D31;
+    border: 0;
+    border-radius: 0;
+    height: auto;
+}
+
+.navbar-brand {
+    padding-top: 25px;
+}
+
+ h1 { /*Aunty's Home*/
+    text-transform: uppercase;
+    font-family: Caveat Brush;
+    color: #F1F0CC;
+    font-weight: bold;
+    line-height: 0.75;
+    margin-bottom: 0;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;
+}
+
+.navbar-brand p {
+    color: #8D775F;
+    text-transform: uppercase;
+    font-size: 0.7em;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.navbar-brand p span {
+    vertical-align: middle;
+    color: #F1F0CC;
+}
+
+#nav-list {
+    margin-top: 15px;
+    margin-right: 10px;
+    font-size: 22px;
+    font-family: Caveat Brush;
+    text-align: center;
+}
+
+#logo-img {
+    background: url('../svg/si-glyph-house.svg') no-repeat;
+    width: 150px;
+    height: 130px;
+    color: black;
+    margin: 0px -20px 0px -50px;
+}
+
+#nav-list a {
+    color:#FCB37B;
+    text-align: center;
+}
+
+#nav-list a:hover {
+    background: #F1F0CC;
+}
+
+#nav-list span {
+    font-size: 1.8em;
+}
+
+#phone {
+    margin-top: 5px;
+    font-family: "Caveat Brush";
+}
+
+#phone div {
+    padding-right: 15px;
+}
+
+#ad {
+    font-family: Ubuntu;
+    font-weight: bolder;
+}
+.looking {
+    background-color: #FCB37B;
+}
+
+.problem {
+    margin-left: -20px;
+    margin-top: 30px;
+    font-size: 22px;
+    padding: 0;
+}
+.rescueDiv {
+   background-color: #A71D31;
+    font-family: Caveat Brush;
+    color: #F1F0CC;
+    height: 100%;
+    width: 100%;
+}
+#happy-face {
+    float: right;
+    margin-top: 20px;
+}
+#happy-face img {
+    margin-top: 40px;
+}
+#facilities-list {
+    margin-top: 100px;
+    font-size: 32px;
+    text-align: center;
+    float: left;
+}
+#facilities-list li {
+    color: #3F0D12;
+    font-size: 22px;
+    list-style: none;
+    margin-right: 40px;
+    text-align: left;
+    font-family: Ubuntu;
+    padding-top: 20px;
+    padding-right: 10px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.facilities {
+    text-align: center;
+    margin-right: 100px;
+    font-family: Ubuntu;
+    padding-right: 30px;
+    font-size: 38px;
+    margin-top: 50px;
+}
+.icon-electricity {
+    background-color: red;
+    height: 30px;
+}
+#heart {
+    color: darkred;
+}
+footer {
+    background-color: #333333;
+    color: #eea236;
+}
+#left {
+ float: left;
+ margin-top: 20px;
+}
+#right {
+    float: right;
+    margin-top: 20px;
+}
+#facilities {
+    margin-bottom: 40px;
+}
+
+#credits {
+    color: white;
+}
+
