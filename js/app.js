@@ -98,7 +98,7 @@ app.controller('facilities-controller', function ($scope) {
 app.controller('SuperCtrl', function($rooteScope, $location){
     $rooteScope.$on('$routeChangeSuccess',function(){
 
-        $window.ga('send'. {
+        $window.ga('send', {
             'hitType': 'screenview',
             'appName': 'auntyhome',
             'screenName': $location.url(),
